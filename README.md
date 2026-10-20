@@ -15,7 +15,7 @@
 
 ## 📢 News
 
-- **[2026-10]** Repository released together with the paper list of the survey. The preprint will be linked here once it is available on arXiv.
+- **[2026-10]** Repository released together with the paper list of the survey. ([arXiv:2610.21165v1](https://arxiv.org/abs/2610.21165v1))
 
 ## 📖 Overview
 
